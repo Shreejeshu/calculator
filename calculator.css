@@ -1,0 +1,61 @@
+.calcu {
+    width: 300px;
+    height: 400px;
+    background: gray;
+    float: left;
+    margin-left: 240px;
+}
+
+#screen {
+    width: 218px;
+    height: 41px;
+    float: left;
+    margin-left: 42px;
+    margin-top: 22px;
+}
+
+.btn {
+    width: 49px;
+    height: 36px;
+    background-color: rgb(36, 34, 34);
+    color: white;
+}
+
+.btn1 {
+    margin-left: 8px;
+    width: 46px;
+    height: 36px;
+    background-color: red;
+}
+
+.row {
+    padding-top: 26px;
+    padding-left: 50px;
+    margin-top: 3px;
+}
+
+.button {
+    margin-top: -4px;
+    background-color: rgb(36, 34, 34);
+}
+
+.calcu {
+    background-color: rgb(36, 34, 34);
+}
+
+.btn2 {
+    margin-left: -15px;
+    width: 45px;
+    height: 33px;
+    background-color: rgb(36, 34, 34);
+    color: white;
+}
+
+.btn5 {
+    width: 207px;
+    height: 37px;
+    margin-left: 3px;
+    margin-top: 19px;
+    background-color: rgb(36, 34, 34);
+    color: white;
+}
